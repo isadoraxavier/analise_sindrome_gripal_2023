@@ -50,7 +50,7 @@ Link: https://opendatasus.saude.gov.br/dataset/notificacoes-de-sindrome-gripal-l
 5. Publicação e disponibilização do projeto online.
 
 # 👁 Visualização de dados 
-Link do Power BI: 
+Link do Power BI: https://app.powerbi.com/view?r=eyJrIjoiNDMyYzI5M2YtZjJmNS00ZDkwLWIyODgtNjJhNmE3OGQyZTliIiwidCI6ImIxNTZhNTQxLWUyMzYtNGVkYi05MWJmLWZjYTI1YzcwMDRmOSJ9
 
 # 💬 Sugestões e comentários
 
